@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+}
+h1{
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 600%;
+    color: rgb(13, 37, 13);
+}
+.ghoom{
+    text-align: center;
+    font-size: 70px;
+    padding-top: 150px;
+}
+
+.top-container{
+    background-color: #bad8e5;
+    height: 650px;
+    width: 2000px;
+    padding-top: 150px;
+    margin: 0;
+}
+.middle-container{
+    background-color: grey;
+  
+    height: 100px;
+    margin: 0px;
+}
+.last-container{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+}
+
+.summer{
+    height:500px;
+    width: 350px;
+   
+    
+    
+   
+}
+.icon{
+   position:absolute;
+   left:1px;
+   top: 2px;
+}
+.love{
+    position: absolute;
+    right: 100px;
+    bottom: 180px;
+}
+
+
+.hit{
+    padding-top: 200px;
+}
+.cc{
+    text-align: left;
+    line-height: 2;
+    height: 500px;
+    width: 2000px;
+    
+}
+.senorita{
+    width: 558px;
+    float: right;
+    position: relative;
+    bottom: 500px;
+}
+.likha{
+    padding: 23px
+}
+.web{
+    position: relative;
+    left: 190x;
+    padding-top: 10px;
+}
+.dew{
+    text-align: right;
+    position: relative;
+    bottom: 990px;
+    line-height: 2;
+
+}
+.sti{
+    position: relative;
+    bottom: 1000px;
+    left: 1000px;
+    width: 300px;
+}
+.fallon{
+    width: 570px;
+}
+.b{
+
+    background-color: pink;
+    height: 1000px;
+    padding-top: 40px;
+    position: relative;
+    bottom: 620px;
+    width: 2000px;
+}
+.carr{
+    height: 1991px;
+    background-color:#bad8e5
+}
+.ginny{
+    position: relative;
+    left: 1200px;
+}
+.d{
+    position: relative;
+    bottom: 648px;
+}
+.geo{
+    text-decoration: underline;
+}
+.conact{
+    height: 300px;
+    background-color:rgb(224, 240, 245);
+    position: relative;
+    bottom: 600px;
+    text-align: center;
+    margin: 40px auto 60px;
+    width: 2000px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
